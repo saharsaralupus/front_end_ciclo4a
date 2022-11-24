@@ -1,3 +1,5 @@
+#Link simbólico a @angular/cli local 
+ng
 # compiled output
 /dist
 /tmp
